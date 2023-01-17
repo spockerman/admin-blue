@@ -2,7 +2,7 @@
 
 Administrative panel project created with react js and ui material, with the purpose of fiction of knowledge and studies.
 
-![dashboard](../../assets/Screenshot.png)
+![dashboard](src/assets/Screenshot.png)
 
 
 ## Available Scripts
