@@ -1,4 +1,4 @@
-# Admin blue Dashbord
+# Admin Blue Dashbord
 
 Administrative panel project created with react js and ui material, with the purpose of fiction of knowledge and studies
 
