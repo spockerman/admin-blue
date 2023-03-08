@@ -2,6 +2,9 @@
 
 Administrative panel project created with react js and Material UI, FullCalendar and Nivo graphic component with the purpose of fiction of knowledge and studies.
 
+This project was inspired by the project of Ed Roh (@EdRohDev).
+
+
 ![dashboard](src/assets/Screenshot.png)
 
 
